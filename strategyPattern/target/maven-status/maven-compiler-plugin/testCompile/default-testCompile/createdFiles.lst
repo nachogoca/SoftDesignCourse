@@ -1,0 +1,8 @@
+mx\iteso\strategy\lifesavers\SwimSeatTest.class
+mx\iteso\strategy\lifesavers\ArmBandTest.class
+mx\iteso\strategy\lifesavers\SwimRingTest.class
+mx\iteso\strategy\balls\BallTest.class
+mx\iteso\strategy\behaviors\impl\BounceBehaviorTest.class
+mx\iteso\strategy\behaviors\impl\HitBehaviorTest.class
+mx\iteso\strategy\behaviors\impl\DeflateBehaviorTest.class
+mx\iteso\strategy\lifesavers\CandyLifesaverTest.class

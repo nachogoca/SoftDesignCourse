@@ -1,0 +1,8 @@
+mx\iteso\strategy\lifesavers\SwimRing.class
+mx\iteso\strategy\behaviors\impl\NotFloat.class
+mx\iteso\strategy\Lifesaver.class
+mx\iteso\strategy\behaviors\impl\NormalFloat.class
+mx\iteso\strategy\behaviors\FloatBehavior.class
+mx\iteso\strategy\lifesavers\CandyLifesaver.class
+mx\iteso\strategy\lifesavers\SwimSeat.class
+mx\iteso\strategy\lifesavers\ArmBand.class
