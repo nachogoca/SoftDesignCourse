@@ -34,7 +34,7 @@ public class StoreMonitorDisplayTest {
         scoresData.setScore("home", "away", 0, 0);
         scoresData.addScorer(new Scorer("Player", 9, "Mid", "home"));
 
-        assertEquals("[MONITOR]Latest score is:home (HOME) 1 - away (AWAY) 0\nScorers:Name : Player\n" +
+        assertEquals("[MONITOR]Latest score is:home (HOME) 1 - away (AWAY) 0\nScorers:\nName : Player\n" +
                 "Number : 9\n" +
                 "Position : Mid\n" +
                 "Team : home", storeMonitorDisplay.display());
