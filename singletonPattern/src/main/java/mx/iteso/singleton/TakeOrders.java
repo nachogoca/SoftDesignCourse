@@ -10,6 +10,7 @@ public class TakeOrders {
         Drink drink;
         Dish dish;
 
+        
         order = Table4.getInstance();
 
         drink = new Drink();
@@ -90,6 +91,7 @@ public class TakeOrders {
         order.addDish(dish);
 
         order.printCheck();
+
     }
 
 
