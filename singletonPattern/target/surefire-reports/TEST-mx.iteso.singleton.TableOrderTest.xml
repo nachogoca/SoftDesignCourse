@@ -65,9 +65,9 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="mx.iteso.singleton.TableOrderTest" name="addDrinkTest" time="0"/>
   <testcase classname="mx.iteso.singleton.TableOrderTest" name="addDishTest" time="0"/>
+  <testcase classname="mx.iteso.singleton.TableOrderTest" name="addDrinkTest" time="0"/>
+  <testcase classname="mx.iteso.singleton.TableOrderTest" name="clearDrinksTest" time="0"/>
   <testcase classname="mx.iteso.singleton.TableOrderTest" name="printCheckTest" time="0.002"/>
   <testcase classname="mx.iteso.singleton.TableOrderTest" name="clearDishesTest" time="0"/>
-  <testcase classname="mx.iteso.singleton.TableOrderTest" name="clearDrinksTest" time="0"/>
 </testsuite>
