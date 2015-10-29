@@ -25,8 +25,8 @@
       <file leaf-file-name="Table1Test.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/mx/iteso/singleton/tables/Table1Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.69593495">
-              <caret line="71" column="25" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.35934958">
+              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -62,8 +62,8 @@
         <option value="$PROJECT_DIR$/src/test/java/mx/iteso/singleton/DrinkTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/mx/iteso/singleton/TableOrderTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/mx/iteso/singleton/tables/Table1Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/mx/iteso/singleton/tables/Table1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/mx/iteso/singleton/tables/Table1Test.java" />
       </list>
     </option>
   </component>
@@ -1004,8 +1004,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/mx/iteso/singleton/tables/Table1Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.69593495">
-          <caret line="71" column="25" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.35934958">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
           <folding />
         </state>
       </provider>
