@@ -22,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Table1Test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/mx/iteso/singleton/tables/Table1Test.java">
+      <file leaf-file-name="Table4Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/mx/iteso/singleton/tables/Table4Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.35934958">
-              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -64,6 +64,9 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/mx/iteso/singleton/tables/Table1.java" />
         <option value="$PROJECT_DIR$/src/test/java/mx/iteso/singleton/tables/Table1Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/mx/iteso/singleton/tables/Table2Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/mx/iteso/singleton/tables/Table3Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/mx/iteso/singleton/tables/Table4Test.java" />
       </list>
     </option>
   </component>
@@ -1002,10 +1005,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/mx/iteso/singleton/tables/Table2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6910569">
+          <caret line="32" column="43" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="43" />
+          <folding>
+            <marker date="1446093121512" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1446093121512" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1446093121512" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1446093121512" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1446093121512" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1446093121512" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/mx/iteso/singleton/tables/Table1Test.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.74634147">
+          <caret line="36" column="5" selection-start-line="15" selection-start-column="3" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <marker date="1446092966113" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1446092966113" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1446092966113" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1446092966113" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1446092966113" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1446092966113" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/mx/iteso/singleton/tables/Table3Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.689781">
+          <caret line="32" column="43" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="43" />
+          <folding>
+            <marker date="1446093121492" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1446093121492" expanded="true" signature="-1:-1" placeholder="/**...*/" />
+            <marker date="1446093121492" expanded="false" signature="-1:-1" placeholder=" { " />
+            <marker date="1446093121492" expanded="false" signature="-1:-1" placeholder=" }" />
+            <marker date="1446093121492" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1446093121492" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/mx/iteso/singleton/tables/Table4Test.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.35934958">
-          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
           <folding />
         </state>
       </provider>

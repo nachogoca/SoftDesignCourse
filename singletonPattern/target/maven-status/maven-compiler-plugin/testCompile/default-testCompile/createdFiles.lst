@@ -1,5 +1,7 @@
-mx\iteso\singleton\tables\Table1Test$MySingleton.class
+mx\iteso\singleton\tables\Table4Test.class
+mx\iteso\singleton\DishTest.class
+mx\iteso\singleton\tables\Table2Test.class
 mx\iteso\singleton\DrinkTest.class
 mx\iteso\singleton\TableOrderTest.class
 mx\iteso\singleton\tables\Table1Test.class
-mx\iteso\singleton\DishTest.class
+mx\iteso\singleton\tables\Table3Test.class
