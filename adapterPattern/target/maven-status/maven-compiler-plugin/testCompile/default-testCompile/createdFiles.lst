@@ -1,0 +1,3 @@
+mx\iteso\adapter\enemy\EnemyRobotAdapterTest.class
+mx\iteso\adapter\enemy\impl\EnemyGiantTest.class
+mx\iteso\adapter\temperature\adapters\TemperatureObjectReporterTest.class

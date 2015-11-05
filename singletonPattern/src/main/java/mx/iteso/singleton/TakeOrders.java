@@ -10,7 +10,7 @@ public class TakeOrders {
         Drink drink;
         Dish dish;
 
-        
+
         order = Table4.getInstance();
 
         drink = new Drink();
