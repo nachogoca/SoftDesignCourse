@@ -4,6 +4,6 @@ package media;
  * Created by Nacho on 05/11/2015.
  */
 public interface AdvanceMediaPlayer {
-    public void playVlc();
-    public void playMp4();
+    public void playVlc(String song);
+    public void playMp4(String song);
 }
