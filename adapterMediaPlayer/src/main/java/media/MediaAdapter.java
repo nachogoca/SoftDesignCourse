@@ -13,11 +13,13 @@ public class MediaAdapter implements MediaPlayer {
         this.advanceMediaPlayer = advanceMediaPlayer;
     }
 
-    public void play(String song) {
+    public String play(String song) {
         if (song.startsWith("[MP4]")) {
-            advanceMediaPlayer.playMp4(song);
+            return advanceMediaPlayer.playMp4(song);
         } else if (song.startsWith("[VLC]")) {
-            advanceMediaPlayer.playVlc(song);
+            return advanceMediaPlayer.playVlc(song);
         }
+
+        return "Invalid format.";
     }
 }

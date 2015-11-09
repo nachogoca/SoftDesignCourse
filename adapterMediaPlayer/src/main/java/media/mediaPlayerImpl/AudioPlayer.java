@@ -18,12 +18,14 @@ public class AudioPlayer implements MediaPlayer {
         this.mediaAdapter = mediaAdapter;
     }
 
-    public void play(String song) {
+    public String play(String song) {
           if (song.startsWith("[MP3]")) {
-              System.out.println("Playing " + song + " with audio player.");
+              String s ="Playing " + song + " with audio player.";
+              System.out.println(s);
+              return s;
           } else
           {
-              mediaAdapter.play(song);
+              return mediaAdapter.play(song);
           }
     }
 }
